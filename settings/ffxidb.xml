@@ -1,0 +1,27 @@
+<settings>
+    <global>
+        <X>0</X>
+        <Y>0</Y>
+        <Zoom>100</Zoom>
+        <Opacity>75</Opacity>
+        <ShowPC>true</ShowPC>
+        <ShowNPC>true</ShowNPC>
+        <ShowMob>true</ShowMob>
+        <ShowMarker>true</ShowMarker>
+        <ShowTargetLine>true</ShowTargetLine>
+        <Ranges></Ranges>
+    </global>
+    <Tsukii>
+        <X>1500</X>
+        <Y>46</Y>
+        <Zoom>25</Zoom>
+    </Tsukii>
+    <Leyf>
+        <X>1451</X>
+        <Y>41</Y>
+    </Leyf>
+    <Apes>
+        <X>1438</X>
+        <Y>38</Y>
+    </Apes>
+</settings>
